@@ -6,7 +6,7 @@
   <div>
     <a href="https://github.com/JapaScripter">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JapaScripter&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JapaScripter&layout=compact&langs_count=7&theme=highcontrast"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JapaScripter&layout=demo&langs_count=3&theme=highcontrast"/>
   </div>
   
  ## 
