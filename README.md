@@ -1,6 +1,6 @@
 <!--=====TITULO=====-->
 <section>
-  <h1 align="center"><b><i>₿ Japa Scripter ₿<br><br></i></b></h1>
+  <h1 align="center"><b><i>₿ Yuri Yoshi ₿<br><br></i></b></h1>
 </section>
 <!--=====TITULO=====-->
 
