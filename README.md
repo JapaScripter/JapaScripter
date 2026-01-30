@@ -1,6 +1,6 @@
 <!--=====TITULO=====-->
 <section>
-  <h1 align="center"><b><i>Yoshi<br><br></i></b></h1>
+  <h1 align="center"><b><i>JapaScripter<br><br></i></b></h1>
 </section>
 
 <!--=====SUBTITULO=====-->
