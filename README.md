@@ -8,7 +8,7 @@
 <div>
   <h3 align="center"><i>Segurança é: não postar foto do seu cachorro nas redes sociais...</i></h3>
   <h3 align="center"><i>...e, por falar nisso, a senha do seu insta é "Theo123456789".</i></h3>
-  <h3 align="center"><b><i>"Unknow"</b></i></h3>
+  <h3 align="center"><b><i>"Unknown"</b></i></h3>
 </div>
 <hr>
 <!--=====LINGUAGENS + PROGRAMO=====-->
