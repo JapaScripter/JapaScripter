@@ -8,6 +8,10 @@
 <div>
   <h3 align="center"><i>Segurança é: não postar foto do seu cachorro nas redes sociais...</i></h3>
   <h3 align="center"><i>...e, por falar nisso, a senha do seu insta é "TheoMeuCachorro123".</i></h3>
+  <br>
+  <h3 align="center"><i>Safety means: not posting photos of your dog on social media...</i></h3>
+  <h3 align="center"><i>...and, by the way, your Instagram password is "TheoMyDog123".</i></h3>
+  <br>
   <h3 align="center"><b><i>"Unknown"</b></i></h3>
 </div>
 <hr>
